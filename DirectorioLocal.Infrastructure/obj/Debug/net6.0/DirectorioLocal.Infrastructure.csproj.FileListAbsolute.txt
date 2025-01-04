@@ -1,0 +1,17 @@
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Infrastructure\bin\Debug\net6.0\DirectorioLocal.Infrastructure.deps.json
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Infrastructure\bin\Debug\net6.0\DirectorioLocal.Infrastructure.runtimeconfig.json
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Infrastructure\bin\Debug\net6.0\DirectorioLocal.Infrastructure.dll
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Infrastructure\bin\Debug\net6.0\ref\DirectorioLocal.Infrastructure.dll
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Infrastructure\bin\Debug\net6.0\DirectorioLocal.Infrastructure.pdb
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Infrastructure\obj\Debug\net6.0\DirectorioLocal.Infrastructure.csproj.AssemblyReference.cache
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Infrastructure\obj\Debug\net6.0\DirectorioLocal.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Infrastructure\obj\Debug\net6.0\DirectorioLocal.Infrastructure.AssemblyInfoInputs.cache
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Infrastructure\obj\Debug\net6.0\DirectorioLocal.Infrastructure.AssemblyInfo.cs
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Infrastructure\obj\Debug\net6.0\DirectorioLocal.Infrastructure.csproj.CoreCompileInputs.cache
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Infrastructure\obj\Debug\net6.0\DirectorioLocal.Infrastructure.dll
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Infrastructure\obj\Debug\net6.0\ref\DirectorioLocal.Infrastructure.dll
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Infrastructure\obj\Debug\net6.0\DirectorioLocal.Infrastructure.pdb
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Infrastructure\obj\Debug\net6.0\DirectorioLocal.Infrastructure.genruntimeconfig.cache
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Infrastructure\bin\Debug\net6.0\DirectorioLocal.Core.dll
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Infrastructure\bin\Debug\net6.0\DirectorioLocal.Core.pdb
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Infrastructure\obj\Debug\net6.0\DirectorioLocal.Infrastructure.csproj.CopyComplete

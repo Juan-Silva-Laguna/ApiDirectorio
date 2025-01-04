@@ -1,0 +1,12 @@
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Core\bin\Debug\net6.0\DirectorioLocal.Core.deps.json
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Core\bin\Debug\net6.0\DirectorioLocal.Core.dll
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Core\bin\Debug\net6.0\ref\DirectorioLocal.Core.dll
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Core\bin\Debug\net6.0\DirectorioLocal.Core.pdb
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Core\obj\Debug\net6.0\DirectorioLocal.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Core\obj\Debug\net6.0\DirectorioLocal.Core.AssemblyInfoInputs.cache
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Core\obj\Debug\net6.0\DirectorioLocal.Core.AssemblyInfo.cs
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Core\obj\Debug\net6.0\DirectorioLocal.Core.csproj.CoreCompileInputs.cache
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Core\obj\Debug\net6.0\DirectorioLocal.Core.dll
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Core\obj\Debug\net6.0\ref\DirectorioLocal.Core.dll
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Core\obj\Debug\net6.0\DirectorioLocal.Core.pdb
+C:\DirectorioLocal\DirectorioLocal\DirectorioLocal.Core\obj\Debug\net6.0\DirectorioLocal.Core.csproj.AssemblyReference.cache
